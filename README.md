@@ -14,12 +14,12 @@
   <br/>
    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
-####  :clipboard: Once I've Used 
+
   
  <br/>
  <div align='start'>
    
-# project
+####  :clipboard: project
    
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <br>
