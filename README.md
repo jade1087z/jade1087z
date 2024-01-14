@@ -7,8 +7,9 @@
 <div align="center">
 
   ### :wave: Welcome my github profile !
-  <p> 안녕하세요! 저는 프론트엔드 개발자가 되기 위해 열심히 공부하고 있는 임종한입니다. 웹 개발에 대한 열정을 가지고 있으며, 사용자 친화적인 웹페이지를 만드는 것에 흥미가 있습니다.
-      현재는 React.js 대한 이해도를 높이고자 노력하고 있습니다. 항상 새로운 기술을 배우고, 이를 통해 더 나은 사용자 경험을 제공하는 웹사이트를 만드는 것을 목표로 하고 있습니다. 감사합니다! </p>
+  <p> 안녕하세요! 저는 프론트엔드 개발자가 되기 위해 열심히 공부하고 있는 임종한입니다. <br>
+    웹 개발에 대한 열정을 가지고 있으며, 사용자 친화적인 웹페이지를 만드는 것에 흥미가 있습니다. <br>
+    현재는 React.js 대한 이해도를 높이고자 노력하고 있습니다. 항상 새로운 기술을 배우고, 이를 통해 더 나은 사용자 경험을 제공하는 웹사이트를 만드는 것을 목표로 하고 있습니다. 감사합니다! </p>
   <br/>
   <br/>
    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
@@ -22,7 +23,7 @@
    
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <br>
-  깃헙 리포지토리 링크입니다. 이동하여 자세한 설명을 볼 수 있습니다.
+  깃헙 리포지토리 링크입니다. 이동하여 자세한 설명을 볼 수 있습니다.  <br>
 - <a href="https://github.com/jade1087z/reactyoutube.git">리액트 유튜브</a>   <br>
   -- 리액트를 처음 배우며 만들었던 사이트입니다. <br>
   -- 패션 유튜버들의 영상만 모아 시청가능하게 만들었습니다. 
