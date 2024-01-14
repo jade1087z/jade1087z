@@ -20,7 +20,8 @@
    
 # project
    
-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br>
+- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <br>
   깃헙 리포지토리 링크입니다. 이동하여 자세한 설명을 볼 수 있습니다.
 - <a href="https://github.com/jade1087z/reactyoutube.git">리액트 유튜브</a>   <br>
   -- 리액트를 처음 배우며 만들었던 사이트입니다. <br>
