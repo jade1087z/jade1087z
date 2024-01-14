@@ -20,7 +20,7 @@
    
 # project
    
-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <br>
   깃헙 리포지토리 링크입니다. 이동하여 자세한 설명을 볼 수 있습니다.
 - <a href="https://github.com/jade1087z/reactyoutube.git">리액트 유튜브</a>   <br>
@@ -33,7 +33,7 @@
   -- react-calendar, react-quill 라이브러리를 활용하며 꾸며보았습니다. <br>
   -- 다양한 api (자연어 처리, 번역) 등을 활용했으며, restFull api를 만들어 개발했습니다.
   
-- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 깃헙 리포지토리 링크입니다. 이동하여 자세한 설명을 볼 수 있습니다.
 - <a href="https://github.com/jade1087z/php__CJJD.git">취중진담 사이트</a> <br>
   -- php를 활용해 서버단을 구축하였고, mysql을 활용해 제작했습니다.
