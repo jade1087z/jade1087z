@@ -11,7 +11,8 @@
       현재는 React.js 대한 이해도를 높이고자 노력하고 있습니다. 항상 새로운 기술을 배우고, 이를 통해 더 나은 사용자 경험을 제공하는 웹사이트를 만드는 것을 목표로 하고 있습니다. 감사합니다! </p>
   <br/>
   <br/>
-  
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
 ####  :clipboard: Once I've Used 
   
  <br/>
