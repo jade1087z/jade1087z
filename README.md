@@ -9,9 +9,8 @@
   ### :wave: Welcome my github profile ! 
 
   <br/>
+  <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-
- <br/>
   
 ####  :clipboard: Once I've Used 
   
