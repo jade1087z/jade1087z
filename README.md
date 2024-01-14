@@ -21,8 +21,7 @@
 # project
    
 # <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-- <a href="https://github.com/jade1087z/reactyoutube.git">리액트 유튜브</a> 
-  
+  깃헙 리포지토리 링크입니다. 이동하여 자세한 설명을 볼 수 있습니다.
 - <a href="https://github.com/jade1087z/reactyoutube.git">리액트 유튜브</a>  
   -- 리액트를 처음 배우며 만들었던 사이트입니다.
   -- 패션 유튜버들의 영상만 모아 시청가능하게 만들었습니다. 
@@ -34,6 +33,7 @@
   -- 다양한 api (자연어 처리, 번역) 등을 활용했으며, restFull api를 만들어 개발했습니다.
   
 # <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+깃헙 리포지토리 링크입니다. 이동하여 자세한 설명을 볼 수 있습니다.
 - <a href="https://github.com/jade1087z/php__CJJD.git">취중진담 사이트</a>
   -- php를 활용해 서버단을 구축하였고, mysql을 활용해 제작했습니다.
   
