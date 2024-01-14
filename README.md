@@ -6,11 +6,11 @@
 
 <div align="center">
 
-  ### :wave: Welcome my github profile ! 
-
+  ### :wave: Welcome my github profile !
+  <p> 안녕하세요! 저는 프론트엔드 개발자가 되기 위해 열심히 공부하고 있는 임종한입니다. 웹 개발에 대한 열정을 가지고 있으며, 사용자 친화적인 웹페이지를 만드는 것에 흥미가 있습니다.
+      현재는 React.js 대한 이해도를 높이고자 노력하고 있습니다. 항상 새로운 기술을 배우고, 이를 통해 더 나은 사용자 경험을 제공하는 웹사이트를 만드는 것을 목표로 하고 있습니다. 감사합니다! </p>
   <br/>
   <br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
   
 ####  :clipboard: Once I've Used 
   
