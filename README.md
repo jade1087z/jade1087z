@@ -23,7 +23,8 @@
    <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> 
    <br>
     깃헙 리포지토리 링크입니다. 이동하여 자세한 설명을 볼 수 있습니다. <br>
-    <a href="https://github.com/jade1087z/cjjd_upgrade.git">취중진담 사이트 마이그레이션, 리팩토링</a> 
+    <a href="https://github.com/jade1087z/cjjd_upgrade.git">취중진담 사이트 마이그레이션, 리팩토링</a> <br>
+  <br>
    - 기존에 php로 만들었던 팀프로젝트를 혼자 react와 node.js를 활용해 마이그레이션 및 리팩토링 하고 있습니다. 
    - 그 과정에서 typescript를 적용 시켜 정적 타입 언어의 장단점을 배워가며 공부하고 있는 과정입니다. 
    - react-query에 대한 필요성을 느껴 추후에 공부하여 추가로 적용시킬 예정입니다. 
