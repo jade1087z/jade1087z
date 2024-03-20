@@ -13,9 +13,6 @@
   <br/>
   <br/>
    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-
-
-  
  <br/>
  <div align='start'>
    
@@ -30,7 +27,7 @@
   <br>
   
 
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=#777BB4">
     <br>
     깃헙 리포지토리 링크입니다. 이동하여 자세한 설명을 볼 수 있습니다.
   - <a href="https://github.com/jade1087z/php__CJJD.git">취중진담 사이트</a> <br>
