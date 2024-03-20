@@ -18,7 +18,7 @@
    
 ####  :clipboard: project
 
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <br>
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> &nbsp  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> &nbsp <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp <br>
     깃헙 리포지토리 링크입니다. 이동하여 자세한 설명을 볼 수 있습니다.
   - <a href="https://github.com/jade1087z/cjjd_upgrade.git">취중진담 사이트 마이그레이션, 리팩토링</a> 
   <br>
