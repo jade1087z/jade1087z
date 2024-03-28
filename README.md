@@ -35,7 +35,7 @@
      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">  
    <br>
    
-- <a href="https://github.com/jade1087z/KiCanDiary.git">리액트 다이어리</a>  <br>
+- <a href="https://github.com/jade1087z/englishDiary.git">리액트 다이어리</a>  <br>
   -- 리액트와 노드.js를 활용해 개발중인 다이어리 사이트입니다.   <br>
   -- react-calendar, react-quill 라이브러리를 활용하며 꾸며보았습니다. <br>
   -- 다양한 api (자연어 처리, 번역) 등을 활용했으며, restFull api를 만들어 개발했습니다.
